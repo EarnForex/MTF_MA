@@ -2,7 +2,7 @@
 
 **Multi-Timeframe Moving Average** or **MTF MA** is a moving average indicator that displays an MA calculated from the higher timeframe on the current chart of lower timeframe.
 
-![MTF MA - example on EUR/USD @ M15 with H1, H4, and Daily MA's](https://github.com/EarnForex/MTF_MA)
+![MTF MA - example on EUR/USD @ M15 with H1, H4, and Daily MA's](https://github.com/EarnForex/MTF_MA/blob/master/README%20Images/MTF%20MA.png)
 
 The indicator can be used in Forex trading to monitor higher timeframes without switching up from the lower one.
 
